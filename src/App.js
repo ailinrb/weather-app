@@ -46,7 +46,7 @@ class App extends Component {
           </LocationList>
         </Col>
         <Col xs={12} md={6}>
-          <Paper zDepth={4}>
+          <Paper elevation={4}>
              <div className="details">
                {
                  city &&
